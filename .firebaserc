@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "decisive-fabric-243821": {
+      "hosting": {
+        "wekesa-todo": [
+          "decisive-fabric-243821"
+        ]
+      }
+    }
+  }
+}
